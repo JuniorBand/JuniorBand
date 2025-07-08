@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+https://github.com/user-attachments/assets/69bd3e8c-f99a-4d62-b61a-ad05dc330524
+
+
+
 <!--
 **JuniorBand/JuniorBand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
