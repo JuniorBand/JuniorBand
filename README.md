@@ -10,7 +10,7 @@ https://github.com/user-attachments/assets/69bd3e8c-f99a-4d62-b61a-ad05dc330524
 
 
 <div align="center">
-  <img height="180" src="https://read-me-weld.vercel.app/api/top-langs/?username=JuniorBand&layout=compact&hide_border=true&title_color=00ff99&text_color=ffffff&bg_color=0d1117" />
+  <img height="180" src="https://read-me-weld.vercel.app/api/top-langs/?username=JuniorBand&layout=compact&hide_border=true&title_color=00ff99&text_color=ffffff&bg_color=0d1117&exclude_repo=read-me&v=3" />
 </div>
 
 <!--
