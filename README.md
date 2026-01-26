@@ -6,7 +6,7 @@
 
 [charm]: https://github.com/charmbracelet
 
-https://github.com/user-attachments/assets/69bd3e8c-f99a-4d62-b61a-ad05dc330524
+![Órbitas com Manim](https://github.com/user-attachments/assets/69bd3e8c-f99a-4d62-b61a-ad05dc330524)
 
 
 <div align="center">
